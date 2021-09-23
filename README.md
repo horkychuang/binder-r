@@ -45,11 +45,11 @@ the URL of our original repository from GitHub or Figshare, etc.
 
 - For the RStudio environment, we must add the following at the end of the URL: `?urlpath=rstudio`
 
-  - Example: http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio
+  - Example: https://mybinder.org/v2/gh/horkychuang/binder-r/HEAD?urlpath=rstudio
   
 - For the Shiny app environment, we must add the following at the end of the URL: `?urlpath=shiny`. In this case, we 
 also have to note that if the Shiny app files are located in a folder, this folder should be specified in the URL, 
 after a slash. We would then also have to put in a trailing slash at the end of the URL, and to avoid spaces in the 
 name of the repository, placing instead a hyphen (the reason is that spaces are converted to `%20`).
 
-  - Example: http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/
+  - Example: https://mybinder.org/v2/gh/horkychuang/binder-r/HEAD?urlpath=shiny/bus-dashboard/
