@@ -1,10 +1,10 @@
 # Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](https://hub.gke2.mybinder.org/user/horkychuang-binder-r-glwwwyh2/lab)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/horkychuang-binder-r-glwwwyh2/lab)
 
-RStudio: [![Binder](https://hub.gke2.mybinder.org/user/horkychuang-binder-r-glwwwyh2/lab?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/horkychuang-binder-r-glwwwyh2/lab?urlpath=rstudio)
 
-RShiny: [![Binder](https://hub.gke2.mybinder.org/user/horkychuang-binder-r-glwwwyh2/lab?urlpath=shiny/bus-dashboard/)
+RShiny:  [![Binder](http://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/horkychuang-binder-r-glwwwyh2/lab?urlpath=shiny/bus-dashboard/)
 
 Binder supports using R and RStudio, with libraries pinned to a specific 
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
